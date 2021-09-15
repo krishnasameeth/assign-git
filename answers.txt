@@ -8,4 +8,4 @@ Why should you have different branches?
 You should have different branches when you and your teammates are working on seperate features parallely and you dont want your work to affect others.
 
 In a project how many remote Git repositories do you usually have?
-You usually have as many as you need.
+For a big project you have only one remote git repository! However you can have multiple branches within this repository to manage new features.
